@@ -1,3 +1,18 @@
 h1{
-    color: red;
+    color: black;
 }
+.header{
+    font-size: 48px;
+    color: navy;
+    border-style: double;
+    border-color: brown;
+}
+.img{
+    width: 30;
+    height: 30;
+}
+table{
+    color: lightcoral;
+    background-color: lightsteelblue;
+}
+
