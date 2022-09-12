@@ -13,6 +13,23 @@ h1{
 }
 table{
     color: lightcoral;
+    background-color: powderblue;
+}
+.page1{
     background-color: lightsteelblue;
 }
-
+.home{
+    background-color: lightpink;
+}
+.page2{
+    background-color: lightseagreen;
+}
+.page3{
+    background-color: grey;
+}
+.page4{
+    background-color: dodgerblue;
+}
+.page5{
+    background-color: cornflowerblue;
+}
